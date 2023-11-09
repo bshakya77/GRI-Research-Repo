@@ -1,4 +1,5 @@
 # Resources for GRI Research
+Useful Python Notebooks (.ipynb) are in `source_code/notebooks` folder and related research papers are in `research_papers` folder.
 
 ## Official Implementation Repositories
 
