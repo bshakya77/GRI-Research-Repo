@@ -10,5 +10,8 @@
 
 - __(https://learnopencv.com/weighted-boxes-fusion/)__
 - __(https://learnopencv.com/comparing-kerascv-yolov8-models/)__
-- __(https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/?fbclid=IwAR2YxPZzmvk1n2ZtgxZQpC1XRS3ld38jXoaOSYBxmxzR3CV23sGLHmdCxYE#Datasets-and-Model-Evaluation-Competitions)__
+- __[Mean Average Precision](https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/?fbclid=IwAR2YxPZzmvk1n2ZtgxZQpC1XRS3ld38jXoaOSYBxmxzR3CV23sGLHmdCxYE#Datasets-and-Model-Evaluation-Competitions)__
+- __[https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/]__
+- __[https://blog.roboflow.com/whats-new-in-yolov8/]__
+  
   
