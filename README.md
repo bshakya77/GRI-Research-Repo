@@ -1,5 +1,10 @@
 # h2 Official Implementation Repositories
----
-- __[FasterViT]([https://nodeca.github.io/pica/demo/](https://github.com/NVlabs/FasterViT#fastervit-fast-vision-transformers-with-hierarchical-attention)https://github.com/NVlabs/FasterViT#fastervit-fast-vision-transformers-with-hierarchical-attention)__
+
+- __[FasterViT](https://github.com/NVlabs/FasterViT#fastervit-fast-vision-transformers-with-hierarchical-attention)__
 - __[YOLOv8](https://github.com/ultralytics/ultralytics)__
+- __[Weighted Boxes Fusion](https://github.com/ZFTurbo/Weighted-Boxes-Fusion#description-of-wbf-method-and-citation)__
+- __[Object Detection Metrics](https://github.com/rafaelpadilla/review_object_detection_metrics/)__
+- __[VisDrone Dataset](https://github.com/VisDrone/VisDrone-Dataset)__
+  
+  
   
