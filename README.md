@@ -8,6 +8,7 @@ Useful Python Notebooks (.ipynb) are in `source_code/notebooks` folder and relat
 - __[Weighted Boxes Fusion](https://github.com/ZFTurbo/Weighted-Boxes-Fusion#description-of-wbf-method-and-citation)__
 - __[Object Detection Metrics](https://github.com/rafaelpadilla/review_object_detection_metrics/)__
 - __[VisDrone Dataset](https://github.com/VisDrone/VisDrone-Dataset)__
+- __[Open Image Dataset V7](https://storage.googleapis.com/openimages/web/index.html)__
 - __[YOLOS](https://github.com/hustvl/YOLOS)__
   
 ## Useful Articles
