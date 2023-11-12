@@ -11,6 +11,7 @@ Useful Python Notebooks (.ipynb) are in `source_code/notebooks` folder and relat
 - __[Open Image Dataset V7](https://storage.googleapis.com/openimages/web/index.html)__
 - __[YOLOS](https://github.com/hustvl/YOLOS)__
 - __[Vision Transformers Collection](https://github.com/lucidrains/vit-pytorch)__
+- __[Pytorch Image Models](https://github.com/huggingface/pytorch-image-models)__
   
 ## Useful Articles
 
