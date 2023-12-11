@@ -21,5 +21,5 @@ Useful Python Notebooks (.ipynb) are in `source_code/notebooks` folder and relat
 - __[Comparison of CNN and ViTs](https://medium.com/@iliaspapastratis/comparison-of-convolutional-neural-networks-and-vision-transformers-vits-a8fc5486c5be)__
 - __https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/__
 - __https://blog.roboflow.com/whats-new-in-yolov8/__
-  
-  
+- __[Pretraining Faster RCNN ViT Detection Model on Pascal VOC](https://debuggercafe.com/pretraining-faster-rcnn-vit-detection-model-on-pascal-voc/)__
+- __[Using Any Torchvision Pretrained Model as Backbone for PyTorch Faster RCNN](https://debuggercafe.com/using-any-torchvision-pretrained-model-as-backbone-for-pytorch-faster-rcnn/)__
