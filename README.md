@@ -14,7 +14,7 @@ Useful Python Notebooks (.ipynb) are in `source_code/notebooks` folder and relat
 - __[Pytorch Image Models](https://github.com/huggingface/pytorch-image-models)__
   
 ## Useful Articles
-
+- __[Reference: YOLOv8 Backbone Replacement]https://github.com/ultralytics/ultralytics/issues/1682__
 - __https://learnopencv.com/weighted-boxes-fusion/__
 - __https://learnopencv.com/comparing-kerascv-yolov8-models/__
 - __[Mean Average Precision](https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/?fbclid=IwAR2YxPZzmvk1n2ZtgxZQpC1XRS3ld38jXoaOSYBxmxzR3CV23sGLHmdCxYE#Datasets-and-Model-Evaluation-Competitions)__
